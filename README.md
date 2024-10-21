@@ -1,4 +1,4 @@
-```markdown
+
 # Customer Registration System
 
 Este repositório contém o projeto **Customer Registration System**, no qual criamos uma funcionalidade para armazenar dados de clientes (nome, idade, CPF) em uma matriz e formatá-los como uma tabela em um arquivo de texto.
